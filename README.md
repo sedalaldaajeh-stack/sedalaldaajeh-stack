@@ -2,7 +2,7 @@
 
 # Hi, I'm Sedal 👋
 
-### Software Engineering Student · Flutter & Firebase Developer
+### Software Engineering Student · FULL STACK Developer
 
 Building thoughtful mobile experiences and secure web applications.
 
